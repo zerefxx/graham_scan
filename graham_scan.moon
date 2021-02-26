@@ -1,4 +1,4 @@
--- This Lua implementation was based on this directory, thanks
+-- This Lua implementation was based on this repository, thanks
 -- https://github.com/melanz/graham-scan
 
 table.copy = (t) ->
